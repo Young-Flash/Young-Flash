@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I am Flash 👋
 
 <!--
 **Young-Flash/Young-Flash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 👨‍🎓 Master degree in Computer Science and Technology
+- ✨ Participated in [OSPP 2021](https://summer-ospp.ac.cn/2021/) & [GSoC 2022](https://summerofcode.withgoogle.com/programs/2022) & [OSPP 2023](https://summer-ospp.ac.cn/)
+- ⚡ Backend dev with C++ / Rust / Java
+- ✍️ See my [Blog](https://young-flash.github.io/)
+- 🏊‍♂️ Swimming enthusiasts (Butterfly, Freestyle, Breaststroke)
+- 👉 Find me at [Twitter](https://twitter.com/temp6521)
+- 📮 Contact me via dongyang@apache.org (May not reply soon)
+
+<!--
+ ![Young-Flash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Young-Flash&count_private=true&show_icons=true&hide=stars)
+ -->
