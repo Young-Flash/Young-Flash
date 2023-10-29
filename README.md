@@ -4,7 +4,7 @@
 **Young-Flash/Young-Flash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🤝 Open Source enthusiasts 
+🤝 Open Source enthusiasts & Apache Committer
 
 ⚡ Backend dev with Rust / C++ / Java
 
