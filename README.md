@@ -4,7 +4,7 @@
 **Young-Flash/Young-Flash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🤝 Open Source enthusiasts & Apache Committer
+🤝 Open Source enthusiasts & [Apache](https://github.com/orgs/apache/people) Committer & [Rust-lang](https://github.com/orgs/rust-lang/people) & [rust-analyzer](https://github.com/orgs/rust-analyzer/people) team member
 
 ⚡ Backend dev with Rust / C++ / Java
 
@@ -16,7 +16,7 @@
 
 👉 Find me at [Twitter](https://twitter.com/temp6521)
 
-📮 Contact me via dongyang@apache.org (May not reply soon) or Twitter DM
+📮 Contact me via dongyang@apache.org or Twitter DM
 
 <!--
  ![Young-Flash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Young-Flash&count_private=true&show_icons=true&hide=stars)
