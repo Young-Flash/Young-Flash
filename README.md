@@ -14,9 +14,7 @@
 
 ✍️ See my [Blog](https://young-flash.github.io/)
 
-👉 Find me at [Twitter](https://twitter.com/temp6521)
-
-📮 Contact me via dongyang@apache.org or Twitter DM
+📮 Contact me via dongyang@apache.org
 
 <!--
  ![Young-Flash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Young-Flash&count_private=true&show_icons=true&hide=stars)
